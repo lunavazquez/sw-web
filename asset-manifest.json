@@ -1,0 +1,21 @@
+{
+  "main.css": "/sw-web/static/css/main.d54dd099.chunk.css",
+  "main.js": "/sw-web/static/js/main.be510657.chunk.js",
+  "main.js.map": "/sw-web/static/js/main.be510657.chunk.js.map",
+  "runtime~main.js": "/sw-web/static/js/runtime~main.1e24cc0f.js",
+  "runtime~main.js.map": "/sw-web/static/js/runtime~main.1e24cc0f.js.map",
+  "static/js/2.ed5c35f8.chunk.js": "/sw-web/static/js/2.ed5c35f8.chunk.js",
+  "static/js/2.ed5c35f8.chunk.js.map": "/sw-web/static/js/2.ed5c35f8.chunk.js.map",
+  "index.html": "/sw-web/index.html",
+  "precache-manifest.c2236c30e56b39f54d6e4ff5e2a30cc6.js": "/sw-web/precache-manifest.c2236c30e56b39f54d6e4ff5e2a30cc6.js",
+  "service-worker.js": "/sw-web/service-worker.js",
+  "static/css/main.d54dd099.chunk.css.map": "/sw-web/static/css/main.d54dd099.chunk.css.map",
+  "static/media/1.jpg": "/sw-web/static/media/1.0f3d0156.jpg",
+  "static/media/124129.jpg": "/sw-web/static/media/124129.2404a29e.jpg",
+  "static/media/2.jpg": "/sw-web/static/media/2.19f2d33d.jpg",
+  "static/media/3.jpg": "/sw-web/static/media/3.32c99cf6.jpg",
+  "static/media/4.jpg": "/sw-web/static/media/4.f01b97ff.jpg",
+  "static/media/5.jpg": "/sw-web/static/media/5.0cbc0e3c.jpg",
+  "static/media/6.jpg": "/sw-web/static/media/6.c41d1fb5.jpg",
+  "static/media/7.jpg": "/sw-web/static/media/7.bc07c078.jpg"
+}
