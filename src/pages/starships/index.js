@@ -9,7 +9,7 @@ const Starships = props => {
   const [starship, setStarship] = useState({});
 
   useEffect(() => {
-    fetch(`http://localhost:1337/swapi/starship/list/${episode}`)
+    fetch(`${process.env.REACT_APP_API}/swapi/starship/list/${episode}`)
       .then(response => response.json())
       .then(setStarships);
   }, []);

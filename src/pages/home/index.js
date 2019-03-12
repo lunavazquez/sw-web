@@ -24,7 +24,7 @@ const Home = () => {
   const [movies, setMovies] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:1337/swapi/movie/list')
+    fetch(`${process.env.REACT_APP_API}/swapi/movie/list`)
       .then(response => response.json())
       .then(setMovies);
   }, []);
